@@ -1,0 +1,14 @@
+repositories {
+    maven {
+        url 'https://esri.bintray.com/arcgis'
+    }
+}
+dependencies {
+
+    compile 'com.esri.arcgisruntime:arcgis-android:100.6.0' 
+    //compile 'com.google.code.gson:gson:2.8.5'
+      /*implementation('androidx.multidex:multidex:2.0.1') {
+       exclude group: 'androidx.multidex'
+    }*/
+}
+

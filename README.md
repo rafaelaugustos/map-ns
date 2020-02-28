@@ -1,0 +1,3 @@
+# nativescript-notoriun-coletor-plugin
+
+ 
